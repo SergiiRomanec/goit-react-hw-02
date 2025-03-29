@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 32px;
+}
+
+.button {
+    font-size: 24px;
+    font-weight: 500;
+    text-transform: capitalize;
+    padding: 16px 32px;
+    border: 1px solid;
+    border-radius: 8px;
+    background-color: #5ed54e;
+    cursor: pointer;
+}
